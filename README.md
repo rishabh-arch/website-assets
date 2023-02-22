@@ -9,7 +9,7 @@
 
 ### Nodejs
 - cache
-- helmet &#9745;
+- helmet :heavy_check_mark:
 > `Upcoming version`
 - Compression
 - Mongodb Backup to AWS S3 automatically
@@ -23,4 +23,3 @@
 - Blog page
 - About us page
 
-| :light_rail: `:light_rail:` |
